@@ -80,3 +80,9 @@ body {
 #navbar a:hover {
     color: slateblue;
 }
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
